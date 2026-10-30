@@ -1,1 +1,1 @@
-# image-processing-using-python-IPP-
+# image-processing-using-python-IPP
